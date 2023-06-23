@@ -1,0 +1,22 @@
+
+.stilos{
+  margin: 0 auto;
+  
+}
+
+.bajo{
+  background-color: #115214;
+  padding: 3rem;
+  justify-content: center;
+  display: flex;
+}
+table, th, td{
+  border: solid black;
+  border-collapse: collapse;
+  } 
+
+.space{
+  padding: 5rem;
+  color: white;
+
+}
