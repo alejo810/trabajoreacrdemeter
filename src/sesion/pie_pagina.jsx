@@ -1,11 +1,11 @@
 import React from 'react'
 
-const pie_pagina = () => {
+const pie_pagina = (props) => {
     return (
         <div>
             <footer className="bajo">
 
-                <a className="navbar-brand" href="#"><img src="./img/ggggg.png" alt=""
+                <a className="navbar-brand" href="#"  ><img src={props.banano} alt=""
                     style={{ width: "70px", height: "50px" }} /></a>
                 <a href="">
                     <i class="bi bi-envelope space"></i>
